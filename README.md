@@ -5,8 +5,9 @@
 ### Software Engineer · Systems · Backend · Full-Stack
 
 <p>
-  <a href="https://github.com/SteamOon"><img src="https://img.shields.io/badge/GitHub-SteamOon-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
-  <a href="https://www.42berlin.com/"><img src="https://img.shields.io/badge/42%20Berlin-Student-000000?style=for-the-badge&logo=42" alt="42 Berlin"></a>
+  <a href="https://www.linkedin.com/in/steven-moon-422654104">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 </div>
