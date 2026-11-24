@@ -42,7 +42,7 @@ I'm studying Computer Science at 42 Berlin, where there are no lectures and no t
 </div>
 - 🌍 English (native) · German (C1)
 
-<br>
+<br><br>
 
 ## Featured projects
 
