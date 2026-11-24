@@ -20,14 +20,6 @@ I'm studying Computer Science at 42 Berlin, where the learning is project-based 
 
 I'm studying Computer Science at 42 Berlin, where there are no lectures and no teachers. You get a problem, work out how to solve it, and then defend your solution to your peers. I'm comfortable digging into something unfamiliar on my own until it clicks, or collaborating with others to find a solution together.
 
-### What I care about
-
-- Problem solving: breaking a messy problem down into its constituent parts and enjoying the moment it all clicks into place
-- Writing code that's readable, tested and easy for the next person to pick up
-- Working well with others, through code review, collaborative planning, and effective communication
-- Financial technology, where my accounting background and my engineering work meet
-
-
 ## Technical toolkit
 
 <div align="center">
