@@ -20,6 +20,7 @@ I'm studying Computer Science at 42 Berlin, where the learning is project-based 
 
 I'm studying Computer Science at 42 Berlin, where there are no lectures and no teachers. You get a problem, work out how to solve it, and then defend your solution to your peers. I'm comfortable digging into something unfamiliar on my own until it clicks, or collaborating with others to find a solution together.
 
+
 ## Technical toolkit
 
 <div align="center">
@@ -39,6 +40,7 @@ I'm studying Computer Science at 42 Berlin, where there are no lectures and no t
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 - 🌍 English (native) · German (C1)
+
 
 ## Featured projects
 
