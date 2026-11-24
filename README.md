@@ -2,7 +2,7 @@
 
 # Steven Moon
 
-### Software Engineer · Systems · Backend · Full-Stack
+### Software Engineer · Problem Solver · C, C++, Kotlin, TypeScript
 
 <p>
   <a href="https://www.linkedin.com/in/steven-moon-422654104">
