@@ -16,8 +16,6 @@
 
 I'm a software engineer based in Berlin. I came to code after ten years as a chartered accountant, having spent years in audit and at a building society, so I know what it's like to depend on systems that have to be right, and I care about building ones that are.
 
-I'm studying Computer Science at 42 Berlin, where the learning is project-based and peer-reviewed. Most of what I know comes from building things, breaking them, and having someone else tell me why.
-
 I'm studying Computer Science at 42 Berlin, where there are no lectures and no teachers. You get a problem, work out how to solve it, and then defend your solution to your peers. I'm comfortable digging into something unfamiliar on my own until it clicks, or collaborating with others to find a solution together.
 
 <br>
