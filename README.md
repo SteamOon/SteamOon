@@ -14,14 +14,19 @@
 
 ## About me
 
-I’m a software engineer with hands-on experience building systems in **C, C++, Kotlin, TypeScript, and PostgreSQL**. I enjoy working close to the fundamentals—from memory management and concurrency to networking, databases, and distributed application behaviour.
+I'm a software engineer based in Berlin. I came to code after ten years as a chartered accountant, having spent years in audit and at a building society, so I know what it's like to depend on systems that have to be right, and I care about building ones that are.
 
-I’m currently studying Computer Science at **42 Berlin**, where I build practical projects independently and in teams. I care about readable code, reliable tests, thoughtful code review, and continuous improvement.
+I'm studying Computer Science at 42 Berlin, where the learning is project-based and peer-reviewed. Most of what I know comes from building things, breaking them, and having someone else tell me why.
 
-- 🔧 Building backend services, systems software, and full-stack applications
-- 🧠 Interested in algorithms, concurrency, networking, and financial technology
-- 🤝 Comfortable collaborating through Git, code review, and shared delivery goals
-- 🌍 English (native) · German (C1)
+I'm studying Computer Science at 42 Berlin, where there are no lectures and no teachers. You get a problem, work out how to solve it, and then defend your solution to your peers. I'm comfortable digging into something unfamiliar on my own until it clicks, or collaborating with others to find a solution together.
+
+### What I care about
+
+- Problem solving: breaking a messy problem down into its constituent parts and enjoying the moment it all clicks into place
+- Writing code that's readable, tested and easy for the next person to pick up
+- Working well with others, through code review, collaborative planning, and effective communication
+- Financial technology, where my accounting background and my engineering work meet
+
 
 ## Technical toolkit
 
@@ -41,6 +46,7 @@ I’m currently studying Computer Science at **42 Berlin**, where I build practi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
+- 🌍 English (native) · German (C1)
 
 ## Featured projects
 
